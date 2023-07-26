@@ -1,0 +1,97 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    margin-top: 40px;
+    background-image: url("../kepek/hatter.png");
+    font-family: Helvetica, sans-serif;
+    line-height: 20px;
+}
+
+.img-header {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+main {
+    text-align: justify;
+    background-color: #ffffff;
+    padding: 50px;
+}
+
+h1 {
+    color: #3399ff;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h2 {
+    color: #3399ffde;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+
+#colosseum {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.img-colosseum-container {
+    float: right;
+    width: 30%;
+    padding-top: 15px;   
+    padding-left: 20px;
+    padding-bottom: 15px;
+    /* padding: 15 px auto 15 px 20 px; */
+}
+
+#trevi-kut {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.img-trevi-kut-container {
+    float: left;
+    width: 20%;
+    padding: 15px 20px 15px;
+    /*padding-top: 15px;
+     padding-right: 20px;
+    padding-bottom: 15px;*/
+}
+
+p.dolt {
+    font-style: italic;
+    font-size: 95%;
+}
+
+ul.museum-list {
+    font-family: Arial, sans-serif;
+    list-style-image: url("../kepek/eye.png");
+    line-height: 25px;
+}
+
+span.museum {
+    background-color: rgb(233,219,200);
+    color: rgb(43,41,38);
+    font-weight: bold;
+    padding: 4px;
+}
+
+#forras-wiki {
+    text-align: right;
+}
+
+a.wiki-roma:visited {
+    color: #ccc8c3;
+}
+
+a.wiki-roma:link {
+    color: yellowgreen;
+    text-decoration: none;
+}
+a.wiki-roma:hover {
+    color: #899ee2;
+}
